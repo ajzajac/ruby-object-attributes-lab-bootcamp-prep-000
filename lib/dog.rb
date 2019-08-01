@@ -15,3 +15,4 @@ class Dog
     @breed = breedname
   end
 end
+
